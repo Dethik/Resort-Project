@@ -1,0 +1,15 @@
+h1 {
+  color:blue;
+  text-align: center;
+  font-size: 50px;
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 20px;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
